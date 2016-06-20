@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    static boolean[] visited=new boolean[105];
+    static boolean[] visited=new boolean[105];  //무제였다를 문제였다로 바꾸고싶다..
     static int[][] arr=new int[105][105];
     static int infect_num= -1;
     public static void main(String[] args){
